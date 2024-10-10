@@ -1,1 +1,1 @@
-Name: Abhinav\nFather's Name: [satya prakash]\nRegd_no: [12222363]\nArea of Specialization: [full stack]
+Name: Abhinav\nFather's Name: [abhinav]\nRegd_no: [12222363]\nArea of Specialization: [full stack]
